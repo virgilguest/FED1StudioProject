@@ -95,6 +95,23 @@
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
     <Content Include="css\studio.css" />
+    <Content Include="images\a-r-t-paola-589990-unsplash.jpg" />
+    <Content Include="images\ben-krygsman-745458-unsplash.jpg" />
+    <Content Include="images\border_wave.png" />
+    <Content Include="images\bullet_point_image_orange.png" />
+    <Content Include="images\bullet_point_image_teal.png" />
+    <Content Include="images\CentriqLogo.png" />
+    <Content Include="images\computer_icon.png" />
+    <Content Include="images\CSS_logo.png" />
+    <Content Include="images\goran-ivos-246271-unsplash.jpg" />
+    <Content Include="images\goran-ivos-422398-unsplash.jpg" />
+    <Content Include="images\greg-rakozy-129733-unsplash.jpg" />
+    <Content Include="images\hitesh-choudhary-562332-unsplash.jpg" />
+    <Content Include="images\HTML_logo.png" />
+    <Content Include="images\JS_logo.png" />
+    <Content Include="images\markus-spiske-507983-unsplash.jpg" />
+    <Content Include="images\pankaj-patel-561360-unsplash.jpg" />
+    <Content Include="images\Sandbox-48.png" />
     <Content Include="index.html" />
     <Content Include="Team.html" />
     <Content Include="Web.config" />
@@ -147,7 +164,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\" />
     <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>
