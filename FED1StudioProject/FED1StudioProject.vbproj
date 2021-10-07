@@ -94,7 +94,6 @@
   <ItemGroup>
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
-    <Content Include="css\studio.css" />
     <Content Include="images\104461_twitter_icon.png" />
     <Content Include="images\a-r-t-paola-589990-unsplash.jpg" />
     <Content Include="images\ben-krygsman-745458-unsplash.jpg" />
@@ -168,7 +167,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="js\" />
+    <Folder Include="css\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
